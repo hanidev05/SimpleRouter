@@ -61,7 +61,7 @@ D_prop = d/s
 
 ---
 
-## 📐 Parameters
+## Parameters
 
 | Parameter | Description |
 |-----------|------------|
@@ -74,7 +74,7 @@ D_prop = d/s
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 SimpleRouter/
 -delay.py
 -Images/
@@ -83,7 +83,7 @@ SimpleRouter/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open the project folder
 2. Run the script:
@@ -94,7 +94,7 @@ python delay.py
 
 ---
 
-## 📈 Simulation Insights
+## Simulation Insights
 
 - If **ρ < 1** → The system is stable  
 - If **ρ ≥ 1** → The queue grows (congestion)  
