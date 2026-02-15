@@ -1,0 +1,5 @@
+Traffic delay: 0.0012
+Propagation delay: 5e-07
+Traffic intensity (rho): 0.9839999999999999
+Average queue delay: 0.024880804069983973
+Total dropped packets: 0
