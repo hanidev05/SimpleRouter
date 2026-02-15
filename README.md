@@ -51,19 +51,13 @@ The results are visualized and stored in the `Images/` folder.
 ##  Mathematical Definitions
 
 ### Transmission Delay
-\[
-D_{trans} = \frac{L}{R}
-\]
+D_trans = L/R
 
 ### Propagation Delay
-\[
-D_{prop} = \frac{d}{s}
-\]
+D_prop = d/s
 
 ### Traffic Intensity
-\[
-\rho = \frac{\lambda L}{R}
-\]
+ρ = lambda* L/R
 
 ---
 
@@ -82,9 +76,8 @@ D_{prop} = \frac{d}{s}
 
 ## 📂 Project Structure
 SimpleRouter/
-│
-├── delay.py
-└── Images/
+-delay.py
+-Images/
 - `delay.py` → Main simulation script  
 - `Images/` → Generated graphs and simulation results  
 
